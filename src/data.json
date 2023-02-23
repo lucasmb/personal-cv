@@ -1,0 +1,25 @@
+{
+    "header": "Lucas Borio",
+    "about": "LOREM IPSUMS SOSOSOSOSOSOSOS",
+    "contact": {
+        "email": "lucasborio@gmail.com",
+        "phone": "123123",
+        "web": "https://www.google.com",
+        "linkedin": "",
+        "github": "github.com/lucasmb"
+    },
+    "education": [
+        {
+            "title": "Systems Engenieering",
+            "status": "Unfinished",
+            "started": "2006",
+            "endend": ""
+        },
+        {
+            "title": "Systems Engenieering",
+            "status": "Unfinished",
+            "started": "2006",
+            "endend": ""
+        }
+    ]
+}
